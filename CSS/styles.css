@@ -55,7 +55,7 @@ main form .inputs-container{
 main form .inputs-container input{
     width: 100%;
     height: 100%;
-    padding: 8px 10px;
+    padding: 8px 15px;
     border: 0;
     outline: 0;
     border-radius: 13px;
@@ -94,8 +94,8 @@ main form .password-container #eye{
 main form .password-infos{
     width: 90%;
     margin-top: 3%;
-   
-   
+
+
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -112,7 +112,7 @@ main form .password-infos a:hover{
 main form button {
     background-color: #18acfe;
     width: 92%;
-    height: 45px;
+    height: 50px;
     border: 0;
     outline: 0;
     border-radius: 10px;
@@ -134,8 +134,8 @@ main form .links-container{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 8%;
-    
+    margin-top: 10%;
+
 }
 
 main form .links-container aside{
